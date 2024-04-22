@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Asyo</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="menu">Menu</string>
+    <string name="asyo">Asyo</string>
+    <string name="bottom_title">"This is the bottom sheet"</string>
+    <string name="close_bottom">"Close Sheet"</string>
+    <string name="open_bottom">"Open Sheet"</string>
+</resources>
